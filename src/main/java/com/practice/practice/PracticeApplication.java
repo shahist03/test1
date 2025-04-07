@@ -10,8 +10,11 @@ public class PracticeApplication {
 		int a =100;
 		float b=242.42;
 		char c='a';
-
+		double=43;
 		boolean a=true;
+
+	
+
 		SpringApplication.run(PracticeApplication.class, args);
 	}
 
