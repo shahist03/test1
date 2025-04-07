@@ -1,2 +1,7 @@
 int a =100;
-fhddbfia
+
+
+
+float b=242.42;
+char c='a';
+
